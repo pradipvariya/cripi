@@ -1,0 +1,1567 @@
+@media only screen and (max-width: 1440px) {
+
+
+}
+
+@media only screen and (max-width: 1368px) {
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+}
+@media only screen and (max-width: 599px){
+
+      /*-------------Experts Section start -css-start---------------*/
+
+      .experts_right .sharp {
+
+        right: -77px;
+        top: -102px;
+        width: 30%;
+    }
+
+        /*-------------Experts Section start -css-end---------------*/
+
+   /*-------------Main Banner-css-start---------------*/
+        .banner-two {
+          width: 100% !important;
+          padding: 200px 0 !important;
+      }
+      .women-banner-wrapper .alert-box{
+        right: -29px;
+        padding: 7px;
+        top: -5%;
+      }
+      .active-student{
+        top: -44%;
+      }
+      .congrat{
+        right:100px;
+      }
+         /*-------------Main Banner-css-end---------------*/
+
+
+
+         /*-------------s plan-css-start---------------*/
+
+
+.p_yq{
+  display: block;
+}
+.s_plan-wrapper{
+  margin: 60px 15px !important;
+}
+.s_plan {
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+}
+.p_yq-right .dropdown{
+  margin: auto 0 auto auto;
+}
+.s_plan .plan-card .review-bar{
+  display: block;
+  padding-top: 15px;
+}
+.s_plan .sub_box{
+  margin-top:  10px;
+  margin-bottom: 10px;
+}
+
+.p_yq-right .dropdown button{
+  text-align: right;
+}
+
+/*-------------s plan-css-end---------------*/
+
+/*-------------Subscription-plan start-css-strat---------------*/
+
+.sub_card-l{
+  border-radius: 15px;
+  padding: 15px;
+}
+.sub_card-l img{
+  margin: auto 20px auto 0;
+}
+.bill_box .rs_bar h4, .bill_box .rs_bar p, .sub_card p, .sub_card span{
+  font-size: var(--sm-font) !important;
+}
+.sub_card h4{
+  font-size: var(--md-font) !important;
+}
+.sub_card .gear_sub{
+  max-width: 140px;
+}
+.discount_bar{
+  padding: 20px;
+}
+.discount_bar .input-group button{
+  padding: 10px 20px !important;
+}
+.max_dis span{
+  font-size: var(--sm-font) !important;
+}
+.bill_box .total_bar p,
+.bill_box .total_bar h3{
+  font-size: var(--sm-font) !important;
+}
+
+/*-------------Subscription-plan start-css-end---------------*/
+
+
+/*-------------offers-card start start-css-start---------------*/
+
+.offer_card-wrapper{
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+}
+.offer_card{
+  width: 100%;
+  padding: 30px 0 15px !important;
+  margin: 20px auto !important;
+  outline: 8px solid #dbdbdb;
+}
+.offers_card-left h1{
+  font-size: 40px !important;
+  line-height: 40px !important;
+}
+
+.offers_card-right h4{
+  font-size: var(--md-font) !important;
+}
+.offers_card-right a{
+  margin-top: 0;
+}
+.offer_lr, .offer_rr{
+  width: 60px;
+  height: 60px;
+}
+.offer_rr{
+  right: -68px;
+}
+.offer_lr{
+  left: -8px;
+}
+.offers_card-right button{
+  padding: 5px 20px;
+}
+
+/*-------------offers-card start start-css-end---------------*/
+
+
+/*-------------Bill Info-css-start---------------*/
+
+.bill_info-wrapper {
+  margin: -90px 20px 30px !important;
+}
+.bill_info {
+  padding: 20px 15px !important;
+  border-radius: 15px;
+}
+.page_baneer.bill_banner{
+  padding: 30px 15px 100px !important;
+}
+.user_contact h3{
+  font-size: var(--sm-font) !important;
+  margin: auto 0 auto 10px !important;
+}
+.user_co-l{
+  width: unset !important;
+}
+/*-------------Bill Info-css-end---------------*/
+
+
+/*-------------Congrats-info-css-start---------------*/
+
+.congrets_box{
+  max-width: 100% !important;
+  margin: 0 15px;
+}
+.congrets_box h1{
+  font-size: var(--xxl-font) !important;
+}
+.congrets_box p{
+  margin-bottom: 15px;
+}
+.congrets_box h2{
+  font-size: var(--md-font) !important;
+}
+
+/*-------------Congrats-info-css-end---------------*/
+
+/*-------------My-order-css-start---------------*/
+
+.my_order-wrapper .sub_card{
+  display: block !important;
+}
+.my_order .sub_card-l{
+  width: 100% !important;
+}
+.my_order .dow_invoice-wrapper{
+  width: 100% !important;
+  flex-direction: row !important;
+  padding: 0 0 20px 20px;
+  justify-content: space-between !important;
+}
+
+/*-------------My-order-css-end---------------*/
+ /*-------------Experience Advanced Section start---------------*/
+
+ .topic_box .tab-content{
+  padding: 30px 10px;
+ }
+ .topic_box .nav-tabs .nav-link{
+  padding: 15px 0;
+ }
+ .topic_box .nav-tabs .nav-link{
+  font-size: var(--sm-font) !important;
+ }
+ .topic_box .plan-card h4{
+  margin-top: 0 !important;
+ }
+ .topic_wrapper{
+  box-shadow: none;
+ }
+  /*-------------Experience Advanced Section End---------------*/
+
+
+    /*-------------Offer Exams-css-start---------------*/
+
+    .y_exam-box{
+      grid-gap: 0 1rem !important;
+    }
+    .n_update-bar{
+      margin: 25px 0 40px;
+    }
+    .n_update h1{
+      font-size: var(--md-font) !important;
+    }
+
+      /*-------------Offer Exams-css-end---------------*/
+
+            /*-------------chapter-css-start---------------*/
+
+      .cp_box{
+        grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr)) !important;
+       }
+      
+      /*-------------chapter-css-end---------------*/
+
+
+}
+@media only screen and (max-width: 767px) {
+
+    /*-------------top-header-css-start---------------*/
+
+    .navbar .nav-link{
+     text-align: center;
+    }
+    .top-finder{
+      display: block !important;
+
+    }
+    .search-bar{
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .cls-box{
+      justify-content: center;
+    }
+  
+    /*-------------top-header-css-start---------------*/
+
+    /*-------------Footer-css-start---------------*/
+
+    .footer_wrapper{
+        padding: 150px 20px 70px !important;
+    }
+    .footer_link{
+        margin: unset;
+    }
+
+    /*-------------Footer-css-end---------------*/
+
+ /*-------------Rg section-css-start---------------*/
+      .rg-bar-wrapper{
+        max-width: 90%;
+      }
+   /*-------------Rg section-css-end---------------*/
+
+   /*-------------Right-for-you-Section-css-start---------------*/
+   #right-fy {
+    padding: 70px 20px 50px 20px !important;
+
+  
+}
+.rg-bar h1{
+    font-size: var(--xl-font);
+}
+  /*-------------Right-for-you-Section-css-end---------------*/
+
+   /*-------------Counter-board-Section-css-start---------------*/
+   .counter_right{
+    display: inline-grid;
+   }
+   #counter {
+    padding: 60px 30px !important;
+}
+.counter_right-inner{
+    width: 100%;
+}
+
+      /*-------------Counter-board-Section-css-end---------------*/
+
+      /*-------------Main Banner-css-start---------------*/
+
+  .banner-one{
+    padding: 50px 20px !important;
+  }
+  .banner-one h1{
+    font-size: 30px !important;
+  }
+  .banner-one p{
+    font-size: var(--sm-font) !important;
+  }
+  .dl-btn .dark-btn{
+    margin-right: 10px;
+    padding: 8px 20px;
+  }
+  .light-btn{
+    padding: 8px 20px;
+  }
+
+    /*-------------Main Banner-css-end---------------*/
+
+
+    
+       /*-------------App Banner Section Start---------------*/
+
+       .app-left{
+        padding: 0 20px 40px !important;
+       }
+       .app-left_logo {
+        margin-bottom: 25px;
+        max-width: 60%;
+    }
+    #app-banner{
+        padding: 80px 0;
+        overflow: hidden;
+    }
+    .app-left_arrow {
+        margin: -27px 0 5px 0 !important;
+        width: 40%;
+    }
+    .watch-shap{
+        bottom: 0;
+    }
+    .r-b-orange{
+        right: -53%;
+        top: -19%;
+    }
+      
+          /*-------------App Banner Section end---------------*/
+
+         /*-------------Trending Section End start---------------*/
+
+         .sec-header h3 {
+            font-size: 28px;
+            font-weight: 600;
+        }
+        .sec-header p{
+            font-size: var(--sm-font);
+        }
+        .sec-header {
+            padding-bottom: 20px;
+        }
+        .trending-plans {
+            max-width: 92%;
+        }
+        .plan-card h4{
+            font-size: var(--md-font);
+        }
+        .plan-card .gear_bg {
+            right: -76px;
+            top: -70px;
+        }
+        .plan-card  p{
+            font-size: var(--sm2-font) !important;
+        }
+        .plan-card .card_status {
+         
+            right: 18px;
+            top: 25px;
+        }
+        .plan-card .card_status-box h3{
+            font-size: 24px;
+            text-align: center;
+        }
+        .plan-card .review-bar{
+            padding-top: 15px;
+        }
+        #trending-plans {
+            padding: 30px 0 50px;
+        }
+
+        /*-------------Trending Section End end---------------*/
+
+  /*-------------Experts Section start -css-start---------------*/
+
+  .experts_box {
+  max-width: 90% !important;
+  }
+  .experts_box h1{
+    font-size: var(--xxl-font);
+    margin-bottom: 20px !important;
+  }
+  .experts_box p{
+    font-size: var(--sm-font) !important;
+    margin-bottom: 40px !important;
+  }
+  .experts .dark-btn h4{
+    font-size: var(--sm-font) !important;
+  }
+  .experts_right-inner{
+    max-width: 100% ;
+    margin: 30px 30px -90px 30px !important;
+  }
+  .experts_card{
+    padding: 15px;
+    height: 220px;
+  }
+  .experts_card p{
+    font-size: var(--sm2-font);
+  }
+
+/*-------------Experts Section start -css-end---------------*/
+
+/*-------------Experience Advanced Section start---------------*/
+.ex-advanced .sec-title{
+    font-size: var(--xxl-font);
+}
+
+#ex-advanced {
+    padding: 180px 20px 30px !important;
+}
+.wave-shap{
+    width: 30%;
+    top: 70px !important;
+}
+.ex-click{
+    max-width: 100%;
+    padding: 15px !important;
+    margin-bottom: 20px;
+}
+.ex-click p{
+    font-size: 18px;
+    padding-left: 10px;
+}
+.ex-click img{
+    max-width: 20%;
+    width: 10%;
+    /* display: flex; */
+    height: fit-content;
+    margin-top: 10px;
+}
+       /*-------------Experience Advanced Section End---------------*/
+
+         /*-------------Bloge Section start -css-start---------------*/
+
+  #bloge{
+    display: block;
+    padding: 80px 0 80px 20px !important;
+  }
+  .bloge_details{
+    width: 98% !important;
+    margin-bottom: 30px;
+    margin-top: 0;
+  }
+  .bloge_slider{
+    width: 100% !important;
+  }
+  #bloge h1{
+    font-size: var(--xxl-font);
+  }
+  #bloge p{
+    font-size: var(--sm-font);
+  }
+  .sharp{
+    display: none;
+  }
+  .blog-title h5{
+    font-size: var(--sm-font);
+  }
+  .bloge-box{
+    margin: 15px;
+  }
+  .blog-date{
+    width: 50px;
+    height: 50px;
+  }
+  .blog-date > div {
+    margin: 12px auto;
+}
+
+/*-------------Bloge Section start -css-end---------------*/
+
+/*-------------Students Reviews Section strat---------------*/
+
+.review-box{
+    width: 100% !important;
+}
+.review-heading {
+   max-width: 90%;
+   padding: 0px 0 0 30px !important;
+}
+.review-box .app-left_arrow{
+    width: 20% !important; 
+    bottom: -40px !important;
+}
+.review-heading h1{
+  font-size: var(--xxl-font);
+}
+#students-review .br-shap{
+  display: none;
+}
+.review-heading p{
+  font-size: var(--sm-font);
+}
+.review-slider{
+  display: block;
+  margin: 57px 0px;
+  border: 1px solid #f881255e;
+  box-shadow: none;
+}
+
+.review-slider p{
+  margin: 10px 0 15px !important;
+}
+.review-box .owl-carousel {
+  margin: 30px -90px 30px 20px !important;
+}
+
+/*-------------Students Reviews Section end---------------*/
+
+
+/*-------------Target Exams-css-start---------------*/
+
+.page_baneer{
+  padding: 30px 15px;
+}
+.page_baneer p{
+  padding: 15px;
+}
+.page_baneer h3,
+.page_baneer .ae_heading{
+  font-size: var(--md-font) !important;
+  text-align: center;
+}
+.find-bar{
+  width: 100%;
+  max-width: 1005;
+  margin: 0;
+  padding: 30px 15px;
+}
+.card_left img{
+  max-width: 60px;
+}
+.exam_catagory .card_left p{
+  font-size: var(--sm-font) !important;
+  margin: auto auto auto 10px;
+}
+.exam_select button {
+  padding: 10px 0;
+  max-width: 120px;
+  width: 120px;
+}
+.exam_select{
+  padding: 15px 15px 15px 30px !important;
+  border-radius: 40px;
+  margin: 60px 0px -40px;
+}
+.exam_select h3{
+  line-height: 46px;
+  font-size: var(--xmd-font) !important;
+}
+.card_right{
+  margin: 0;
+}
+.card_right-inner{
+  max-width: 50%;
+}
+.exam_card{
+  padding: 0;
+}
+/*-------------Target Exams-css-end---------------*/
+
+
+
+/*-------------s plan-css-start---------------*/
+
+
+
+.p_yq-left h1{
+  font-size: var(--xl-font);
+  margin: auto auto auto 20px;
+}
+.p_yq-left img{
+  max-width: 25%;
+  transition: 0.8s;
+    transition-timing-function: ease-out; 
+}
+.p_yq-right button{
+  font-size:  20px;
+}
+.s_plan .plan-card .gear_bg {
+
+  right: -46px;
+  top: -44px;
+ 
+}
+.co_heading{
+  font-size: var(--xl-font);
+}
+/*-------------s plan-css-end---------------*/
+
+/*-------------Subscription-plan start-css-strat---------------*/
+
+.sub_plan-board{
+  margin: 35px 20px !important;
+}
+.sub_card{
+  display: block;
+  margin-bottom: 25px !important;
+}
+.sub_card-r{
+  padding: 15px;
+}
+.sub_card-r p{
+  margin: auto 0 auto auto;
+}
+.sub_card .close{
+  left: 94%;
+    top: 2%;
+}
+.sub_card .close a{
+  width: 40px;
+  height: 40px;
+}
+.add_sub-wrapper{
+  margin: 40px 0;
+}
+.discount_bar .input-group button{
+  font-size: var(--md-font);
+}
+.discount_bar input::placeholder,
+.discount_bar input{
+  font-size: var(--md-font) !important;
+  font-weight: 100;
+  padding: 0 20px !important;
+}
+.discount_bar input::placeholder{
+padding: 0 !important;
+}
+.bill_box-wrapper{
+  border-radius: 15px;
+  padding: 15px;
+  border: 5px solid #fa600a2b;
+  margin: 30px 0 !important;
+}
+.p_checkout button{
+  padding: 10px 0 !important  ;
+}
+/*-------------Subscription-plan start-css-end---------------*/
+
+/*-------------offers-card start start-css-start---------------*/
+
+.offer_card-wrapper{
+  margin: 40px 10px !important;
+}
+
+
+/*-------------offers-card start start-css-end---------------*/
+
+
+/*-------------Bill Info-css-start---------------*/
+
+.user_bill h1{
+  font-size: var(--xl-font);
+}
+.user_bill a{
+  font-size: var(--xxl-font);
+}
+
+.user_co-l i{
+  font-size: var(--xxl-font);
+}
+.user_co-l{
+  width: 50px;
+  height: 50px;
+}
+.bill_info{
+  padding: 30px;
+}
+
+/*-------------Bill Info-css-end---------------*/
+
+/*-------------Congrats-info-css-start---------------*/
+
+.congrets_box img{
+  left: 50%;
+  top: 0%;
+}
+
+.congrets_box{
+  padding: 100px 0 40px ;
+}
+
+/*-------------Congrats-info-css-end---------------*/
+
+
+/*-------------My-order-css-start---------------*/
+
+.my_order-wrapper{
+  margin: 60px 20px !important;
+}
+.my_order .co_heading{
+  margin-bottom: 30px;
+}
+.my_order-wrapper .sub_card{
+  display: flex;
+}
+
+/*-------------My-order-css-end---------------*/
+
+  /*-------------Topic-css-start---------------*/
+
+  .bar_progress-wrapper {
+padding: 15px;
+  }
+  .accordion-button{
+    padding: 20px 0;
+  }
+  .accordion-button .ah_head p{
+    font-size: var(--sm-font);
+    line-height: 1.5;
+  }
+  .accordion-button .n_text{
+    font-size: var(--md-font);
+    padding: 5px 11px 2px;
+  }
+  .accordion-button .la-caret-down{
+    padding: 6px;
+    font-size: var(--md-font);
+  }
+  .accordion-body p{
+    margin-top: 0;
+    padding: 15px;
+    font-size: var(--sm-font);
+  }
+  .accordion-body{
+    padding: 0 0 15px;
+  }
+  .ah_bottom h6{
+    font-size: var(--sm2-font);
+  }
+  .ah_bottom span{
+    font-size: var(--sm-font);
+  }
+
+  /*-------------Topic-css-end---------------*/
+    /*-------------side bar css start---------------*/
+
+    .side_bar{
+      top: unset;
+      bottom: 0;
+      left: 0;
+      border-radius: 10px 10px 0 0;
+    }
+    .side_bar ul{
+      display: flex;
+    }
+    .side_bar ul li{
+      flex: 1;
+      height: auto;
+      width: auto;
+    }
+    .side_bar a i{
+      font-size: var(--xxl-font);
+    }
+    .side_bar span{
+      color: var(--d-gray);
+    }
+    /* .side_bar span{
+      display: none;
+    }
+    .side_bar .active span, .side_bar li a:hover span{
+      display: block;
+    } */
+
+      /*-------------side bar css End---------------*/
+
+      
+  /*-------------Offer Exams-css-start---------------*/
+
+  .offer_wrapper{
+    margin: 170px 15px 0 !important;
+  }
+  .offer{
+    padding: 30px 15px 15px;
+  }
+  .offer_box{
+    padding: 10px 15px;
+  }
+  .offer h3{
+    margin-bottom: 20px;
+  }
+  .y_exam-box{
+      grid-gap: 1rem;
+  }
+  .y_box{
+    margin: 10px;
+  }
+  .n_update h1{
+    font-size: var(--xl-font);
+  }
+  .n_update img{
+    max-width: 50px;
+    height: fit-content;
+  }
+  .n_update  a{
+    height: 40px;
+    width: 40px;
+  }
+  .y_exam-heading{
+    margin-bottom: 0 !important;
+  }
+  /*-------------Offer Exams-css-end---------------*/
+ /*-------------chapter-css-start---------------*/
+
+ .cp_box-wrapper{
+  max-width: 90%;
+ }
+ .cp_rm p{
+  font-size: var(--sm-font);
+ }
+ .cp_rm span, .cp_ml span{
+  font-size: var(--sm2-font);
+ }
+ .cp_box-wrapper{
+  padding: 15px;
+ }
+ .cp_box{
+  grid-gap: 1rem;
+ }
+
+/*-------------chapter-css-end---------------*
+
+
+/*-------------sidebar-login-css-start---------------*/
+
+.sidebar_top{
+  padding: 25px;
+}
+.sidebar_top h1{
+  font-size: var(--sb-font);
+}
+.sidebar_top .cr_account{
+  font-size: var(--md-font);
+}
+.sidebar_top .input-group{
+  max-width: 100%;
+}
+.sidebar_top input{
+  font-size: var(--md-font);
+}
+.sidebar_bottom p{
+  font-size: var(--sm-font);
+}
+.sidebar_top .sub_btn{
+  padding: 10px 50px;
+}
+
+/*-------------sidebar-login-css-end---------------*
+
+
+}
+
+
+
+@media only screen and (max-width: 990px) {
+
+  /*-------------top-header-css-start---------------*/
+
+  .navbar .nav-link{
+    padding: 15px 0;
+  }
+  .top-finder{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /*-------------top-header-css-start---------------*/
+    /*-------------Footer-css-start---------------*/
+
+    .footer_wrapper{
+        padding: 150px 50px 20px;
+    }
+    .footer h3{
+        margin: 20px 0 20px;
+    }
+
+    /*-------------Footer-css-end---------------*/
+
+     /*-------------Rg section-css-start---------------*/
+     .rg-bar{
+        padding: 60px 40px !important;
+     }
+        #rg-bar .footer-img{
+           display: none;
+        }
+        .rg-bar p{
+            max-width: 100%;
+        }
+    
+   /*-------------Rg section-css-end---------------*/
+
+   /*-------------Right-for-you-Section-css-start---------------*/
+
+   #right-fy{
+    padding: 100px 50px 50px 50px;
+    overflow: hidden;
+   }
+   /*-------------Right-for-you-Section-css-end---------------*/
+
+   /*-------------Counter-board-Section-css-end---------------*/
+     
+  .counter_box{
+    display: block;
+  }
+  .counter_left{
+    width: 100%;
+    border-right: none;
+    border-bottom: 2px solid #8080803d;
+    padding-bottom: 25px;
+  }
+  .counter_right-inner{
+    display: unset;
+    margin-top: 25px;
+  }
+
+   /*-------------Counter-board-Section-css-end---------------*/
+
+    /*-------------Main Banner-css-start---------------*/
+
+  .main-banner-wrapper{
+    display: block;
+  }
+  .banner-one{
+    width: 100%;
+  }
+  .banner-two {
+    width: 80%;
+    margin-left: auto;
+    padding: 300px;
+  }
+  .banner-one {
+    padding: 100px 60px  0 0;
+}
+    
+     /*-------------Main Banner-css-end---------------*/
+
+       /*-------------App Banner Section Start---------------*/
+
+       .app-left{
+        padding: 0 50px 40px;
+       }
+                 /*-------------App Banner Section end---------------*/
+      
+       /*-------------Experience Advanced Section start---------------*/
+
+#ex-advanced {
+    padding: 300px 80px 80px;
+}
+#ex-advanced .watch2{
+    bottom: 0;
+}
+ 
+       /*-------------Experience Advanced Section End---------------*/
+  /*-------------Bloge Section start -css-start---------------*/
+
+  #bloge{
+    display: block;
+    /* padding: 80px 0 80px 80px !important; */
+  }
+  .bloge_details{
+
+    margin-bottom: 30px;
+  }
+
+
+/*-------------Bloge Section start -css-end---------------*/
+
+/*-------------Students Reviews Section start---------------*/
+
+.review-wrapper{
+
+
+    display: block  ;
+}
+.review-box {
+    width: 85% !important;
+}
+.review-box .owl-nav {
+    position: absolute;
+    /* right: -190px; */
+    left: 25px;
+    right: unset;
+    bottom: -3px;
+}
+#students-review .br-shap{
+  display: none;
+}
+/*-------------Students Reviews Section end---------------*/
+/*-------------Target Exams-css-start---------------*/
+
+.page_banner-wrapper,
+.target-exam,
+.exam_catagory{
+  padding: 0 15px !important;
+}
+.page_baneer p{
+  font-size: var(--sm-font);
+}
+.page_baneer h3{
+  font-size: var(--xxl-font);
+
+}
+.exam_catagory .card_left p{
+  font-size: var(--xmd-font);
+}
+.exam_select h3{
+  font-size: var(--xl-font);
+}
+.exam_select{
+  padding: 25px 40px;
+}
+
+/*-------------Target Exams-css-end---------------*/
+
+/*-------------Subscription-plan start-css-strat---------------*/
+
+.max_dis span,
+.bill_box .total_bar p,
+.bill_box .total_bar h3,
+.add_sub h3{
+  font-size: var(--md-font);
+}
+.sub_plan-board{
+  margin: 60px 80px;
+}
+/*-------------Subscription-plan start-css-end---------------*/
+
+
+/*-------------offers-card start start-css-strat---------------*/
+
+.offers_card-left h1{
+  font-size: 80px;
+  line-height: 70px;
+}
+.offers_card-right h4{
+  font-size: var(--xxl-font);
+  font-weight: 200;
+}
+.offer_card{
+  padding: 60px 50px 30px;
+}
+.offer_card-wrapper{
+  margin: 40px 80px;
+}
+
+/*-------------offers-card start start-css-end---------------*/
+
+/*-------------Bill Info-css-start---------------*/
+
+.bill_info-wrapper{
+  margin: -90px 80px 70px;
+}
+.user_contact h3{
+  font-size: var(--xmd-font);
+}
+.user_contact {
+  margin-bottom: 0;
+}
+.user_bill{
+  margin-bottom: 20px;
+}
+.con_address{
+  margin-top: 20px;
+}
+.con_address button{
+  font-size: var(--md-font);
+}
+/*-------------Bill Info-css-end---------------*/
+
+/*-------------Congrats-info-css-start---------------*/
+.congrets_box img{
+  max-width: 200px !important;
+}
+
+/*-------------Congrats-info-css-end---------------*/
+
+/*-------------My-order-css-start---------------*/
+
+.my_order-wrapper{
+  margin: 60px 80px;
+}
+.my_order .sub_card-l{
+  padding: 20px;
+  width: 60%;
+}
+.my_order .sub_card-r{
+  padding: 10px 20px 10px 0;
+}
+.dow_invoice{
+  padding: 0 20px;
+}
+.my_order .dow_invoice-wrapper{
+  width: 40%;
+}
+.my_order .sub_card h4{
+  font-size: var(--md-font);
+}
+.dow_invoice button{
+  padding: 8px 15px;
+}
+.my_order .sub_card p{
+  font-size: var(--sm-font);
+}
+.dow_invoice button a{
+  font-size: var(--sm2-font);
+}
+
+/*-------------My-order-css-end---------------*/
+ /*-------------Experience Advanced Section start---------------*/
+
+ .topic_wrapper{
+  margin: 0 15px !important;
+}
+.topic_box .nav-tabs .nav-link{
+  font-size: var(--md-font);
+}
+
+  /*-------------Experience Advanced Section End---------------*/
+
+
+  /*-------------Offer Exams-css-start---------------*/
+
+  .offer_wrapper{
+    margin: 170px 60px 0;
+  }
+
+  /*-------------Offer Exams-css-end---------------*/
+
+  /*-------------chapter-css-start---------------*/
+
+  .page_baneer.bill_banner{
+    padding: 40px 50px 120px;
+  }
+
+  /*-------------chapter-css-end---------------*/
+
+}
+
+@media only screen and (min-width: 1199px){
+
+      /*-------------Navbar-css-start---------------*/
+
+      .navbar-brand {
+        max-width: 200px;
+        width: 200px;
+      }
+
+        /*-------------Navbar-css-end---------------*/
+}
+
+
+@media only screen and (max-width: 1199px){
+
+    /*-------------Navbar-css-start---------------*/
+
+    .navbar-brand {
+        max-width: 140px;
+        width: 140px;
+      }
+      .navbar{
+        padding: 0 ;
+      }
+      .ac-box {
+        margin: 0 10px 0 0;
+    }
+
+      /*-------------Navbar-css-end---------------*/
+
+       /*-------------Main Banner-css-end---------------*/
+
+
+       .banner-one{
+        padding: 100px 30px 110px 60px;
+       }
+       .banner-one h1{
+        font-size: 50px;
+       }
+       .banner-one p{
+        font-size: var(--md-font);
+       }
+       .main-banner-wrapper{
+        height: fit-content;
+        max-height: fit-content;
+       }
+       .active-student{
+        left: 13%;
+       }
+
+        /*-------------Main Banner-css-end---------------*/
+
+           /*-------------App Banner Section Start---------------*/
+
+           .app-left_arrow {
+            margin: -60px 0 25px 0;
+           
+        }
+        .app-banner-wrapper{
+            border-radius: 0 0 50px 50px;
+        }
+
+              /*-------------App Banner Section end---------------*/
+
+        
+        /*-------------Experts Section start -css-start---------------*/
+
+        .experts_box {
+            max-width: 75%;
+            margin: 30px auto 50px;
+        }
+        
+        .experts_right{
+            margin-left: 10%;
+        }        
+        .experts_box p{
+            font-size: var(--smm-font);
+        }
+
+        /*-------------Experts Section start -css-end---------------*/
+
+           /*-------------Experience Advanced Section start---------------*/
+     #ex-advanced .b-group{
+   display: none;
+     }
+     .re-b-1{
+        right: 0;
+     }
+
+      /*-------------Experience Advanced Section End---------------*/
+
+  /*-------------Bloge Section start -css-start---------------*/
+
+  .bloge_details .dark-btn h4{
+    font-size: var(--smm-font);
+  }
+
+/*-------------Bloge Section start -css-end---------------*/
+
+/*-------------Students Reviews Section strat---------------*/
+
+.review-slider p{
+    font-size: var(--smm-font);
+    margin: 0 0 15px;
+}
+/* .review-heading p{
+    font-size: var(--smm-font);
+} */
+.review-slider h3{
+    font-size: var(--xmd-font);
+}
+.review-heading {
+    padding: 85px 0px 0 115px;
+   
+}
+.review-box .owl-carousel {
+    margin: 30px -90px 30px 50px;
+}
+.review-box{
+    width: 50%;
+}
+.review-box .app-left_arrow {
+
+    right: 40px;
+    bottom: -75px;
+    width: 25%;
+}
+
+/*-------------Students Reviews Section end---------------*/
+
+/*-------------Target Exams-css-start---------------*/
+
+.page_banner-wrapper,
+.target-exam,
+.exam_catagory{
+  padding: 0 80px;
+}
+
+/*-------------Target Exams-css-end---------------*/
+
+/*-------------s plan-css-start---------------*/
+
+.s_plan-wrapper{
+  margin: 60px 80px;
+}
+
+/*-------------s plan-css-end---------------*/
+
+
+/*-------------Subscription-plan start-css-start---------------*/
+
+.sub_card h4{
+  font-size: var(--xxl-font);
+}
+
+.sub_card span{
+  font-size: var(--smm-font);
+}
+.bill_box .rs_bar h4,
+.bill_box .rs_bar p,
+.sub_card p{
+  font-size: var(--xmd-font);
+}
+
+/*-------------Subscription-plan start-css-end---------------*/
+        
+
+/*-------------Bill Info-css-start---------------*/
+
+.bill_info{
+  width: 100%;
+  max-width: 100%;
+}
+.user_co-r{
+  max-width: 90%;
+}
+
+/*-------------Bill Info-css-end---------------*/
+
+/*-------------Congrats-info-css-start---------------*/
+.congrets_box h1{
+  font-size: var(--sb-font);
+}
+.congrets_box h5{
+  font-size: var(--xmd-font) !important;
+}
+.congrets_box p{
+  font-size: var(--smm-font);
+}
+.congrets_box h2{
+  font-size: var(--xxl-font);
+}
+.congrets_box{
+  max-width: 68%;
+}
+
+/*-------------Congrats-info-css-end---------------*/
+
+/*-------------My-order-css-start---------------*/
+
+.dow_invoice-wrapper{
+  flex-direction: column;
+  justify-content: center !important;
+}
+.dow_invoice-wrapper p,
+.dow_invoice button {
+  margin: auto 0 auto auto;
+}
+/*-------------My-order-css-end---------------*/
+
+ /*-------------Experience Advanced Section start---------------*/
+
+.topic_wrapper{
+  margin: 0 80px;
+}
+
+       /*-------------Experience Advanced Section End---------------*/
+
+       /*-------------side bar css start---------------*/
+
+    .side_bar ul{
+      padding: 10px;
+    }
+
+      /*-------------side bar css End---------------*/
+
+      /*-------------Topic-wise-sec-css-start---------------*/
+
+      .tw_card{
+        display: block;
+      }
+      .tw_c-left{
+        width: 100%;
+      }
+      .tw_c-center{
+        width: 100%;
+        margin: 30px 0;
+      }
+      .tw_c-right{
+        width: 100%;
+      }
+
+      /*-------------Topic-wise-sec-css-end---------------*/
+
+}
+
+@media only screen and (max-width: 1399px) {
+
+    /*-------------Rg section-css-start---------------*/
+
+    .rg-bar{
+        padding: 100px 90px 400px;
+    }
+
+    /*-------------Rg section-css-end---------------*/
+
+    /*-------------Right-for-you-Section-css-start---------------*/
+
+    .asses-card{
+        max-width: 100%;
+        padding: 45px 20px;
+        margin: auto auto 20px auto;
+    }
+
+    /*-------------Right-for-you-Section-css-end---------------*/
+
+     /*-------------Counter-board-Section-css-end---------------*/
+     
+     .counter_box h1{
+        font-size: var(--b-font);
+     }
+     #counter{
+            padding: 80px 80px;
+     }
+
+    /*-------------Counter-board-Section-css-end---------------*/
+
+        /*-------------Experts Section start -css-start---------------*/
+
+        .experts_card{
+            margin: 10px 0;
+        }
+        .experts_right-inner {
+
+            margin: 60px auto -90px 60px;
+        }
+        .experts_box h1{
+            margin-bottom: 35px;
+        }
+
+        /*-------------Experts Section start -css-end---------------*/
+
+        /*-------------Bloge Section start -css-start---------------*/
+
+        #bloge {
+            padding: 140px 0px 90px 80px;
+        }
+    /* .bloge_details{
+        width: 35%;
+    }
+    .bloge_slider{
+        width: 65%;
+    } */
+
+        /*-------------Bloge Section start -css-end---------------*/
+
+/*-------------Students Reviews Section start---------------*/
+
+.review-box .app-left_arrow{
+    width: 30%;
+}
+/*-------------Students Reviews Section end---------------*/
+
+ /*-------------Experience Advanced Section start---------------*/
+
+ .topic_box .plan-card h4{
+  max-width: 50%;
+ }
+ .topic_box .s_plan .plan-card{
+  padding: 20px;
+ }
+
+  /*-------------Experience Advanced Section End---------------*/
+
+  /*-------------Topic-css-start---------------*/
+
+.bar_progress{
+  display: block;
+}
+.bar_progress h5{
+  width: auto;
+  margin-bottom: 10px;
+}
+.bar_line-wrapper{
+  width: 100%;
+}
+.bar_progress{
+  margin-bottom: 20px;
+}
+.bar_progress h4{
+  margin-left: 20px;
+}
+  /*-------------Topic-css-end---------------*/
+
+}
+
+@media only screen and (max-width: 1499px){
+
+/*-------------Congrats-info-css-start---------------*/
+
+.congrets_box img{
+  max-width: 300px;
+}
+.congrets_box h5{
+  font-size: var(--xxl-font);
+}
+
+/*-------------Congrats-info-css-end---------------*/
+
+
+}
+
+@media only screen and (max-width: 1599px){
+
+     /*-------------Experience Advanced Section start---------------*/
+     #ex-advanced .b-group{
+        top: unset;
+        bottom: -15%;
+     }
+
+      /*-------------Experience Advanced Section End---------------*/
+
+
+
+}
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+
+
+  /*-------------chapter-css-start---------------*/
+
+  .cp_box-wrapper{
+    max-width: 70%;
+  }
+
+
+  /*-------------chapter-css-end---------------*/
+
+}
